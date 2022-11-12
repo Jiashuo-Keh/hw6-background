@@ -1,0 +1,4 @@
+{
+    "mongoURI":"mongodb+srv://jiashuoge:123@devconnect.teiak.mongodb.net/?retryWrites=true&w=majority",
+    "jwtSecret":"mysecrettoken"
+}
